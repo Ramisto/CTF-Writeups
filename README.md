@@ -1,5 +1,3 @@
-<h1>CTF-Writeups</h1>
-
 ## <img src="./Logo/HTB-logo.png" width="70" style="vertical-align:middle"> Hack The Box
 
 | Machines | Challenges  | Sherlocks                                                           | Events |
